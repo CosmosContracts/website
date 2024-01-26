@@ -947,5 +947,29 @@
     "discord": "",
     "twitter": "https://twitter.com/swiftprotocol",
     "telegram": ""
+  },
+  {
+    "id": "f5d4d499-ed69-4380-b2f6-12f63cc63212",
+    "icon": "evia.svg",
+    "backgroundImage": "backgroundEvia.jpeg",
+    "coverImage": "eviaCover.jpeg",
+    "appPreviews": [
+      "app-previews/evia/eviaApp.jpeg",
+      "app-previews/evia/eviaApp1.jpeg",
+      "app-previews/evia/eviaApp2.jpeg",
+      "app-previews/evia/eviaApp3.jpeg"
+    ],
+    "appLinks": {
+      "chrome": "https://app.evia.network"
+    },
+    "title": "Evia",
+    "shortDescription": "The Next Generation of Wealth Creation.",
+    "longDescription": "Evia's primary objective is to provide a secure and sustainable yield for anyone seeking an optimized return on their capital, strategically achieving this through a strong emphasis on capital efficiency.",
+    "category": "DeFi",
+    "website": "https://app.evia.network",
+    "github": "",
+    "discord": "https://discord.evia.network",
+    "twitter": "https://twitter.com/evianetwork",
+    "telegram": ""
   }
 ]
