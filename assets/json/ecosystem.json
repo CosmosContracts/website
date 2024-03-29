@@ -947,5 +947,19 @@
     "discord": "",
     "twitter": "https://twitter.com/swiftprotocol",
     "telegram": ""
+  }, 
+  {
+    "id": "28b0b447-c3df-4c3c-a1c3-0d98fb822968",
+    "icon": "arena.svg",
+    "backgroundImage": "background_arena.jpg",
+    "coverImage": "cover_arena.jpg",
+    "title": "Arena DAO",
+    "shortDescription": "A hub for competitive communities.",
+    "longDescription": "A hub for competitive communities. Dive into our framework for secure competitions including wagers, leagues, & tournaments. Play games for money.",
+    "category": "Consumer",
+    "website": "https://testnet.arenadao.org/",
+    "github": "https://github.com/Arena-DAO",
+    "discord": "https://discord.gg/ECmVAFvuuR",
+    "twitter": "https://x.com/ArenaDAO"
   }
 ]
