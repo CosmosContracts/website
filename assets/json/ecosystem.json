@@ -947,5 +947,24 @@
     "discord": "",
     "twitter": "https://twitter.com/swiftprotocol",
     "telegram": ""
+  },
+  {
+    "id": "7b1fde1e-44bb-4c5a-b41d-2a889c82c2d9",
+    "icon": "galaxy-station.png",
+    "appLinks": {
+      "chrome": "https://chromewebstore.google.com/detail/galaxy-station-wallet/akckefnapafjbpphkefbpkpcamkoaoai",
+      "android": "https://station.hexxagon.io",
+      "ios": "https://station.hexxagon.io"
+    },
+    "native": true,
+    "title": "Galaxy Station",
+    "shortDescription": "Galaxy Station is an interchain wallet used to interact with Cosmos supported chains.",
+    "longDescription": "Galaxy Station is an interchain wallet used to interact with Cosmos supported chains.",
+    "category": "Wallet",
+    "website": "https://station.hexxagon.io",
+    "github": "",
+    "discord": "",
+    "twitter": "https://twitter.com/hexxagon_io",
+    "telegram": ""
   }
 ]
