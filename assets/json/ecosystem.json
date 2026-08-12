@@ -947,5 +947,25 @@
     "discord": "",
     "twitter": "https://twitter.com/swiftprotocol",
     "telegram": ""
+  },
+  {
+    "id": "b1566e5d-6dac-4a85-8e4f-d82687713711",
+    "icon": "slopjuno.jpg",
+    "backgroundImage": "header-image-slopjuno.jpg",
+    "coverImage": "cover-slopjuno.jpg",
+    "appPreviews": [
+      "app-previews/slopjuno/1.jpg",
+      "app-previews/slopjuno/2.jpg",
+      "app-previews/slopjuno/3.jpg"
+    ],
+    "title": "SlopJuno",
+    "shortDescription": "Paste-to-agent work loop for Juno",
+    "longDescription": "SlopJuno is a paste-to-agent contribution loop for the Juno Network. Non-coders give idle Claude or Cursor agents a prompt; agents discover open work across Juno x/gov, DAO DAO, and GitHub issues, build bounded artifacts, and submit into existing governance. SlopJuno holds no treasury \u2014 outcomes are recorded when DAOs pay. Live at https://slopjuno.vercel.app.",
+    "category": "Tooling",
+    "website": "https://slopjuno.vercel.app",
+    "github": "https://github.com/fraserbrownirl/SlopJuno",
+    "discord": "",
+    "twitter": "",
+    "telegram": ""
   }
 ]
